@@ -39,4 +39,3 @@ dispatcher.add_handler(text_message_handler)
 updater.start_polling(clean=True)
 updater.idle()
 checkcheckcheckcheckcheckcheckcheckcheck
-checkcheckcheckcheckcheckcheckcheckcheck
